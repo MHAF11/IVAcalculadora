@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IVA Calculator</string>
+    <string name="tax_type">Select IVA type</string>
+    <string name="calculate">Calculate</string>
+    <string name="result_IVA">result IVA</string>
+
+    <string-array name="tipos">
+        <item>frontier</item>
+        <item>Normal</item>
+    </string-array>
+
+
+    <string name="total_with_tax">Total with Tax (%1$s): %2$s</string>
+    <string name="invalid_value">Please enter a valid value.</string>
+
+
+</resources>
